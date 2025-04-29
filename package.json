@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^5.1.0",
-    "request": "^2.88.2"
-  }
-=======
   "name": "proxy-server",
   "version": "1.0.0",
   "description": "A simple proxy server",
@@ -20,5 +13,4 @@
   },
   "author": "Pineapplepinata",
   "license": "MIT"
->>>>>>> f1bac593cc38c0db60f441e8c814e4fa86c0d703
 }
